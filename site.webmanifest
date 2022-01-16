@@ -1,0 +1,23 @@
+   {
+    "name": "Techy DarshaN",
+    "short_name": "Techy DarshaN",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhVfz4KV_KD8kQbU7WdSpbhi83qpQkNv6oB4A4IYmFwa4FuV0vILu_1TDwCSm7dAlYTgiHUuB8A5sPvFOuRJU9ZidP88aaKJ2Lb0sChBYmkiHXA6u_O2MLVJm0VxQcLRhwnSv-iI-a0lybZndRlj7OdXdNrgUTli8TR1Lurp9-IEx5D3dewPowoCsCCVA",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiXYPUmcCDq4JGp6uUZAA3DNrT3oaGMSuaIioKMAB1RhLLyaXsBClrqW7Qz6LiHWvc_FHPShGj7RIJRm9Dl8WIrgqV3WNXH3_uUBngFpBqtUJ7efCXCJu0FVqDdAPigFV_rn4xAC3Dn4o9bm0_U9foPanMo4FTEZlJ8_Z_ReSAvE6OJnGYDSUEG_9Vgtw",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.techydarshan.eu.org"
+}
